@@ -50,6 +50,7 @@ Também conhecida como Ocultamento da informação, a abstração é o princípi
 O encapsulamento tem o objetivo de ocultar do usuário toda a complexidade por trás de uma tarefa.   
 
 .Herança
+Uma classe (superclasse) pode compartilhar seus atributos e métodos com outras classes (subclasses) que por sua vez possuem seus próprios atributos e métodos.  
 
 .Polimorfismo
 
