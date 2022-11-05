@@ -29,6 +29,14 @@ Link:
 • https://www.seer.ufrgs.br/index.php/renote/article/view/61433/36325
 • https://fit.faccat.br/~guto/artigos/Artigo_Paradigmas_de_Programacao.pdf
 
+Objetivo: O objetivo do trabalho é aprimorar os conhecimentos dos autores da programação orientada a objetos ao compreender seus fundamentos e aplicá-los em um projeto prático.
+
+Resumo: 
+A programação estruturada é composta por três estruturas básicas: sequências, decisões e repetições, que a partir do uso de subrotinas e funções permitem a quebra dos problemas em subproblemas garantindo boa legibilidade e compreensão da estrutura para programadores que estão iniciando seu estudo na programação. Porém, uma mudança na estrutura de dados pode alterar todas as funções relacionadas, além de gerar códigos confusos na tentativa de resolver esses problemas. 
+Dessa forma, a programação orientada a objetos (POO) surgiu como alternativa à programação estruturada com o intuito de aproximar as estruturas de um programa com coisas do mundo real. Esse paradigma da programação permite também a restrição ao acesso de uma variável e contribui com o reaproveitamento de código, aspectos que carecem na programação apresentada inicialmente. 
+Logo, identificando a importância da POO, os autores visam em primeiro momento explicar os quatro fundamentos principais da programação (abstração, polimorfismo, herança e encapsulamento) e depois apresentar detalhes de um (ou mais) projeto(s) prático(s) realizado(s) utilizando esses conceitos.
+
+
 
 - 4 fundamentos base - 
 
