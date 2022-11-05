@@ -2,9 +2,9 @@
 
 > 1º passo
 
-Tema: Desmistificando a programação orientada a objetos
+Tema: Desmistificando a programação orientada a objetos // Amarrar melhor o tema 
 
-Problema de pesquisa: Aplicar os fundamentos da POO em projetos práticos
+Problema de pesquisa: Aplicar os fundamentos da POO em projetos práticos // formato de pergunta 
 
 Objetivo Geral:  Aprimorar o conhecimento da orientação a objeto
 
