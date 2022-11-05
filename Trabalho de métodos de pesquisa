@@ -47,6 +47,7 @@ Logo, identificando a importância da POO, os autores visam em primeiro momento 
 Também conhecida como Ocultamento da informação, a abstração é o princípio pelo qual cada componente deve possuir apenas o mínimo necessário para sua operação em um determinado contexto.
 
 .Encapsulamento
+O encapsulamento tem o objetivo de ocultar do usuário toda a complexidade por trás de uma tarefa.   
 
 .Herança
 
