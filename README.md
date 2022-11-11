@@ -3,10 +3,13 @@
 > 1º passo
 
 Tema: Desmistificando a programação orientada a objetos // Amarrar melhor o tema 
+      Análise de estratégias para melhorar o aprendizado da programação orientada a objetos com java  
 
 Problema de pesquisa: Aplicar os fundamentos da POO em projetos práticos // formato de pergunta 
+                      Como melhorar o aprendizado da POO?
+                      Como melhorar o aprendizado da POO a partir de seus fundamentos base?
 
-Objetivo Geral:  Aprimorar o conhecimento da orientação a objeto
+Objetivo Geral: Aprimorar o conhecimento da orientação a objeto
 
 
 
