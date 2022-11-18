@@ -1,0 +1,87 @@
+abtração signfica decompor um sistema complicado em partes que sejam fundamentais, sendo assim descrevendo ela de uma maneira que seja precisa 
+e em uma linguagem mais simples. Sendo assim fazendo que seja bem detalhado cada parte do seu programa para facilitar o entendimento, implicando a atribuir 
+um nome e descrever as funcionalidades, levando a tipos abastratos de dados (TADs). Um TAD é um modelo matemático de estrutura de dados que especifíca o tipo dos
+dados armazenados, quais parametros serão feitos, ele define o que cada operação faz, mas não como a faz. Em JAVA é materializado por uma estrutura de dados
+concreta que é modelado em classe .
+
+Uma classe é um gabarito de atributos, a definição de uma classe descreve também qual o o comportamento de objetos da classe, sendo as funcionalidades
+que podem sem aplicadas a objetos da classe. Sendo assim fazendo o esqueleto (classe),precisamos dos complementos, a maneira que será manipulado a classe,
+e oara isso usamos os métodos, que é nada mais nada menos que a um procedeimento que eu defino para a classe, com a restrição de 
+que ele manipula apenas as variáveis locais e atributos que foram definidos dentro da classe. 
+Exemplo: 
+
+    public class "(Pessoa)" -  indica o nome da Classe   {
+    
+    // Indica o tipo e o nome da variável 
+    
+    " private int idade; 
+      private double altura;
+      private double peso;  "
+      
+      
+ -- A partir daqui são so métodos  --
+    public int getIdade() {
+        return idade;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
+    }
+
+    public double getAltura() {
+        return altura;
+    }
+
+    public void setAltura(double altura) {
+        this.altura = altura;
+    }
+
+    public double getPeso() {
+        return peso;
+    }
+
+    public void setPeso(double peso) {
+        this.peso = peso;
+    }
+
+    public  void implementarIdade(int idade){
+        this.idade += idade;
+    }
+    
+
+public class "(Teste)" -  indica o nome da Classe {
+
+   
+    public static void main(String[] args) {
+       
+       --Criando o objeto--
+       
+        Pessoa thiago = new Pessoa();
+        
+        
+       -- Verificando as saídas das variáveis contidas dentro da Classe Pessoa --
+       
+        System.out.println("A idade é " + thiago.getIdade());
+        System.out.println("A altura é " +thiago.getAltura());
+        System.out.println("O peso é " +thiago.getPeso());
+        
+        -- Aplicando o uso do método para implemtar as variáveis da classe --
+        
+       thiago.implementarAltura(1.98);
+       thiago.implementarIdade(22);
+       thiago.implementarPeso(72);
+       
+       -- Verificando as saídas das variáveis contidas dentro da Classe Pessoa --
+        System.out.println("A idade é " + thiago.getIdade());
+        System.out.println("A altura é " +thiago.getAltura());
+        System.out.println("O peso é " +thiago.getPeso());
+        
+       
+    }
+}
+
+
+
+
+
+
