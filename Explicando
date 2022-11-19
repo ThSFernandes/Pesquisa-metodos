@@ -6,7 +6,7 @@ concreta que é modelado em classe .
 
 Uma classe é um gabarito de atributos, a definição de uma classe descreve também qual o o comportamento de objetos da classe, sendo as funcionalidades
 que podem sem aplicadas a objetos da classe. Sendo assim fazendo o esqueleto (classe),precisamos dos complementos, a maneira que será manipulado a classe,
-e oara isso usamos os métodos, que é nada mais nada menos que a um procedeimento que eu defino para a classe, com a restrição de 
+e para isso usamos os métodos, que é nada mais nada menos que a um procedimento que eu defino para a classe, com a restrição de 
 que ele manipula apenas as variáveis locais e atributos que foram definidos dentro da classe. 
 Exemplo: 
 
